@@ -47,7 +47,7 @@ Want to learn more about my story, my publications and other contributions to op
 
 0. My story of how I got started in engineering and ended up as a professor at The University of Texas at Austin [My Story](https://michaelpyrcz.com/my-story)
 
-1. My research, approach to research and views on building an inclusive and diverse team [My Research](http://www.michaelpyrcz.com/my-research.html)
+1. My research, approach to research and views on building an inclusive and diverse team [My Research](https://michaelpyrcz.com/my-research)
 
 2. Nothing is possible without awesome **graduate students** [My Students](http://www.michaelpyrcz.com/my-students.html)
 
