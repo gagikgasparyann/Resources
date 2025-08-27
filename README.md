@@ -59,7 +59,7 @@ Want to learn more about my story, my publications and other contributions to op
 
 * [Applied Machine Learning in Python e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/)
 
-6. My peer-reviewed **publications** [My Papers](http://www.michaelpyrcz.com/peer-reviewed.html) 
+6. My peer-reviewed **publications** [My Papers](https://michaelpyrcz.com/my-publications#a8c18cac-e3c9-48e2-8abf-f4beb5fc8f2f) 
 
 7. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
 
