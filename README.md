@@ -45,7 +45,7 @@ For more about Michael, my research group (15 PhDs), my consortium (DiReCT), my 
 
 Want to learn more about my story, my publications and other contributions to open source, check this out:
 
-0. My story of how I got started in engineering and ended up as a professor at The University of Texas at Austin [My Story](http://www.michaelpyrcz.com/home.html)
+0. My story of how I got started in engineering and ended up as a professor at The University of Texas at Austin [My Story](https://michaelpyrcz.com/my-story)
 
 1. My research, approach to research and views on building an inclusive and diverse team [My Research](http://www.michaelpyrcz.com/my-research.html)
 
