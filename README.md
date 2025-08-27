@@ -61,7 +61,7 @@ Want to learn more about my story, my publications and other contributions to op
 
 6. My peer-reviewed **publications** [My Papers](https://michaelpyrcz.com/my-publications#a8c18cac-e3c9-48e2-8abf-f4beb5fc8f2f) 
 
-7. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
+7. My **other contributions** [My Other Contributions](https://michaelpyrcz.com/my-publications#028dcae8-2ecf-4533-bf12-ba37aae6b9c2)
 
 8. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPI Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
 
