@@ -49,9 +49,9 @@ Want to learn more about my story, my publications and other contributions to op
 
 1. My research, approach to research and views on building an inclusive and diverse team [My Research](https://michaelpyrcz.com/my-research)
 
-2. Nothing is possible without awesome **graduate students** [My Students](http://www.michaelpyrcz.com/my-students.html)
+2. Nothing is possible without awesome **graduate students** [My Students](https://michaelpyrcz.com/my-students)
 
-3. I've written a bit, here's the **books** [My Books](http://www.michaelpyrcz.com/books.html)
+3. I've written a bit, here's the **books** [My Books](https://michaelpyrcz.com/my-publications)
 
 4. Here's the 2 NEW, free online ebooks that I wrote during my sabatical. I continue to add and improve content so please continue to check back.
 
